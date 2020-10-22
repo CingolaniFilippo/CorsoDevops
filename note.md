@@ -43,7 +43,7 @@ chmod 666 /var/run/docker.sock
 
 - aggiungere github webhook
 - https://webhookrelay.com/v1/installation/cli
-- installare, registrarsi e creare token
+- installare, registrarsi e creare token 
 
 ```
 relay login -k token-key-here -s token-secret-here
